@@ -58,21 +58,22 @@
 - Charisma: 12 (+1)
 
 Proficiency Bonus: +2
+
 Inspiration []
 
 
 ## Saving Throws
 [x] +6 Strength
 
-[ ]  +3 Dexterity
+[ ] +3 Dexterity
 
 [x] +5 Constitution
 
-[ ]  +0 Intelligence
+[ ] +0 Intelligence
 
-[ ]  +2 Wisdom
+[ ] +2 Wisdom
 
-[ ]  +1 Charisma
+[ ] +1 Charisma
 
 
 ## Skills
@@ -124,7 +125,7 @@ Inspiration []
 ### Hit Points
 - Hit Point Maximum: 34
 
-- Current Hit Points: 10
+- Current Hit Points: 34 
 
 - Temporary Hit Points: 
 
@@ -143,7 +144,7 @@ Failures: [] [] []
 ## Battlemaster Superiority Dice
 4 d8 superiority die (regenerate per short / long rest)
 
-[x] [x] [x] [x]
+[] [] [] []
 
 ### Maneuvers 
 
@@ -159,13 +160,13 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 
 ## Features / Traits
-- [x] Second Wind: Once per short rest, use bonus action to regain 1d10 + 1 HP
+- [] Second Wind: Once per short rest, use bonus action to regain 1d10 + 1 HP
 
-- [x] Relentless Endurance: When reduced to 0HP but not killed, drop to 1HP instead. Can only be used once per long rest.
+- [] Relentless Endurance: When reduced to 0HP but not killed, drop to 1HP instead. Can only be used once per long rest.
 
-- [x] Second Wind: On bonus action regain hp 1d10 +  fighter level. Once per short rest.
+- [] Second Wind: On bonus action regain hp 1d10 +  fighter level. Once per short rest.
 
-- [x] Action surge: On turn take an additional action. Once per short / long rest. 
+- [] Action surge: On turn take an additional action. Once per short / long rest. 
 
 - Fighting Style - Dueling: 1H melee +2 bonus to damage rolls
 
@@ -186,6 +187,14 @@ When you make a weapon attack roll against a creature, you can expend one superi
 - Weapons: Martial, Simple
 
 - Tools: Blacksmith tools, vehicles (land)
+
+
+## Coin
+- Copper Pieces: 
+
+- Silver Pieces: 
+
+- Gold Pieces: 110
 
 
 ## Equipment
@@ -218,6 +227,8 @@ When you make a weapon attack roll against a creature, you can expend one superi
 - 1 art of smithing book
 
 - Transcribed curse note
+
+- 2x short sword
 
 
 ## Character Backstory
