@@ -6,9 +6,9 @@
 
 ## Character Details 
 
-| Class / Level | Race    | Background | Alignment       | Player Name |
-| ------------- | ------- | ---------- | --------------- | ----------- |
-| Fighter Lvl 3 | 3/4 Orc | Folk Hero  | Chaotic Neutral | Corey       |
+| Class / Level | Race    | Background | Alignment       | Player Name | Experience Points |
+| ------------- | ------- | ---------- | --------------- | ----------- | ----------------- |
+| Fighter Lvl 3 | 3/4 Orc | Folk Hero  | Chaotic Neutral | Corey       |                   |
 
 | Age | Height | Weight | Eyes   | Skin           | Hair            |
 | --- | ------ | ------ | ------ | -------------- | --------------- |
@@ -16,11 +16,13 @@
 
 
 ### Personality Traits
+
 - I judge people by their actions, not their words.
 
 - Thinking is for other people, I prefer action.
 
 ### Ideals
+
 - Might: If I believe in strength.
 
 - Destiny: nothing can stop me.
@@ -28,13 +30,16 @@
 - Sincerity: no use for pretending.
 
 ### Bonds
+
 - I worked the land, I love the land, I will protect the land. 
 
 ### Flaws
-- Impulsive 
 
-- Does not think about the long term
+- Impulsive. 
 
+- Does not think about the long term.
+
+---
 
 ## Stats 
 
@@ -51,6 +56,7 @@
 
 **Inspiration:** [ ]
 
+---
 
 ## Saving Throws
 
@@ -63,6 +69,7 @@
 |             | +2       | Wisdom           |
 |             | +1       | Charisma         |
 
+---
 
 ## Skills
 
@@ -87,6 +94,7 @@
 |             | +3       | Stealth          | Dex       |
 | x           | +4       | Survival         | Wis       |
 
+---
 
 ## Combat
 
@@ -101,18 +109,20 @@
 
 
 ### Death Saves
+
 | Successes   | Failures    |
 | ----------- | ----------- |
 | [ ] [ ] [ ] | [ ] [ ] [ ] |
 
 
-### Actions
+### Attacks / Spellcasting
+
 | Weapon       | Attack Bonus | Damage / Type       |
 | ------------ | ------------ | --------------------|
 | Longsword    | +6           | 1d8 +6 Slashing     |
 
+### Battlemaster Superiority Dice
 
-## Battlemaster Superiority Dice
 4 d8 superiority die (regenerate per short / long rest)
 
 - [ ] d8
@@ -120,18 +130,22 @@
 - [ ] d8
 - [ ] d8
 
-### Maneuvers 
+#### Maneuvers 
 
-#### Trip Attack
+- **Trip Attack**
+
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to knock the target down. You add the superiority die
 to the attack’s damage roll, and if the target is Large or smaller, it must make a Strength saving throw. On a failed save, you knock the target prone.
 
-#### Disarming Attack 
+- **Disarming Attack** 
+
 When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it’s holding. You add the superiority die to the attack’s damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
 
-#### Precision Attack
+- **Precision Attack**
+
 When you make a weapon attack roll against a creature, you can expend one superiority die to add it to the roll. You can use this maneuver before or after making the attack roll, but before any effects of the attack are applied.
 
+---
 
 ## Features / Traits
 
@@ -149,28 +163,34 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 - Rustic Hospitality: Fit among common folk with ease. Can find a place to hide and rest among commoners, unless you have shown to be a danger. This will shield you from the law or someone looking for you, but they will not risk their lives for you.
 
+---
 
-## Other Profieciencies / Languages
-- Languages: Common, Orc
+## Other Proficiencies / Languages
 
-- Menacing: proficiency in intimidation
+- **Languages:** Common, Orc
 
-- Armour: Heavy, Medium, Light, Shields
+- **Menacing:** proficiency in intimidation
 
-- Weapons: Martial, Simple
+- **Armour:** Heavy, Medium, Light, Shields
 
-- Tools: Blacksmith tools, vehicles (land)
+- **Weapons:** Martial, Simple
 
+- **Tools:** Blacksmith tools, vehicles (land)
+
+---
 
 ## Coin
+
 - Copper Pieces: 
 
 - Silver Pieces: 
 
 - Gold Pieces: 110
 
+---
 
 ## Equipment
+
 - [x] Chain Mail (75GP)
 
 - [x] Long sword (15GP)
@@ -203,9 +223,12 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 - 2x short sword
 
+---
 
 ## Character Backstory
+
 Grug grew up in the northern icy tundras in a village called Grug. His mother was an orc and his father a half-orc. All males in this village are called "Grug" and the females "Grugetta". Their culture centres around battle, and it is considered a great dishonor to grow old, as it suggests you did not fight worthy foes. Both men and women are expected to fight, and all Grug villagers are proficient blacksmiths. It is customary to go on a death pilgrimage during your physical peak, with the goal being to die with glory. Grug has left his wife Grugetta in the village to go on his own death pilgrimage, where they both hope he finds an honorable death. 
 
 ### Folk Hero Defining Event
+
 Grug's father was not a typical Grug, he hated violence and spent his days writing poetry. Everyone hated him. He refused to go on his death pilgrimage and had grown very old (38 years old) without having any battle scars. One day he was performing his poetry in the village square when Grug finally had enough. He challenged his father to a death duel, which cannot be refused if issued by direct kin. Even Grug's father knew he could not decline. He begged Grug to seek a path of non-violence. Instead, Grug decapitated him, causing the village to cheer and so Grug became the village hero. His mother is very proud of him.
