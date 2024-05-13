@@ -94,9 +94,10 @@
 
 
 ## Combat
-| Armour Class | Initiative | Speed |
-| ------------ | ---------- | ----- |
-| 18           | +3         | 30ft  |
+
+| Armour Class | Initiative | Speed | Hit Dice |
+| ------------ | ---------- | ----- | -------- |
+| 18           | +3         | 30ft  | d10      |
 
 
 | Hit Point Maximum | Current Hit Points | Temporary Hit Points |
@@ -104,13 +105,11 @@
 | 34                | 34                 |                      |
 
 
-### Hit Dice
-d10
-
 ### Death Saves
-Successes: [] [] []
+| Successes   | Failures    |
+| ----------- | ----------- |
+| [ ] [ ] [ ] | [ ] [ ] [ ] |
 
-Failures: [] [] []
 
 ### Actions
 - Name: Longsword, Attack Bonus: + 6, Damage: 1d8 +6 Slashing 
