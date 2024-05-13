@@ -179,17 +179,15 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 ---
 
-## Coin
-
-- Copper Pieces: 
-
-- Silver Pieces: 
-
-- Gold Pieces: 110
-
----
-
 ## Equipment
+
+| Coin     | Amount |
+| -------  | ------ |
+| Copper   | 0      |
+| Silver   | 0      |
+| Electrum | 0      |
+| Gold     | 110    |
+| Platinum | 0      |
 
 - [x] Chain Mail (75GP)
 
@@ -197,7 +195,7 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 - [x] Cool Shield (10GP)
 
-- Light crossbow w/ 20 bolts
+- [x] Light crossbow w/ 20 bolts
 
 - Dungeoneer's Pack
 
