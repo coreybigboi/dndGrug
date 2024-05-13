@@ -1,27 +1,28 @@
 # Grug
 
+> ![Grug Portrait](../grug_portrait.png)
+
 ## Character Details 
-- Class / Level: Fighter Lvl 3
+**Class / Level:** Fighter Lvl 3
 
-- Race: 3/4 Orc
+**Race:** 3/4 Orc
 
-- Background: Folk Hero
+**Background:** Folk Hero
 
-- Alignment: Chaotic Neutral
+**Alignment:** Chaotic Neutral
 
-- Age: 27
+**Age:** 27
 
-- Height: 200cm
+**Height:** 200cm
 
-- Weight: 140kg
+**Weight:** 140kg
 
-- Eyes: Yellow
+**Eyes:** Yellow
 
-- Skin: Pale Blue-Grey
+**Skin:** Pale Blue-Grey
 
-- Hair: Long Black Hair
+Hair: Long Black Hair
 
-![Grug Portrait](../grug_portrait.png)
 
 ### Personality Traits
 - I judge people by their actions, not their words.
@@ -45,21 +46,21 @@
 
 
 ## Stats 
-- Strength: 18 (+4)
+- **Strength:** 18 (+4)
 
-- Dexterity: 16 (+3)
+- **Dexterity:** 16 (+3)
 
-- Consitution: 16 (+3)
+- **Consitution:** 16 (+3)
 
-- Intelligence: 10 (+0)
+- **Intelligence:** 10 (+0)
 
-- Wisdom: 14 (+2)
+- **Wisdom:** 14 (+2)
 
-- Charisma: 12 (+1)
+- **Charisma:** 12 (+1)
 
-Proficiency Bonus: +2
+**Proficiency Bonus:** +2
 
-Inspiration []
+**Inspiration:** [ ]
 
 
 ## Saving Throws
@@ -144,7 +145,10 @@ Failures: [] [] []
 ## Battlemaster Superiority Dice
 4 d8 superiority die (regenerate per short / long rest)
 
-[] [] [] []
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
 
 ### Maneuvers 
 
@@ -160,13 +164,13 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 
 ## Features / Traits
-- [] Second Wind: Once per short rest, use bonus action to regain 1d10 + 1 HP
+- [ ] Second Wind: Once per short rest, use bonus action to regain 1d10 + 1 HP
 
-- [] Relentless Endurance: When reduced to 0HP but not killed, drop to 1HP instead. Can only be used once per long rest.
+- [ ] Relentless Endurance: When reduced to 0HP but not killed, drop to 1HP instead. Can only be used once per long rest.
 
-- [] Second Wind: On bonus action regain hp 1d10 +  fighter level. Once per short rest.
+- [ ] Second Wind: On bonus action regain hp 1d10 +  fighter level. Once per short rest.
 
-- [] Action surge: On turn take an additional action. Once per short / long rest. 
+- [ ] Action surge: On turn take an additional action. Once per short / long rest. 
 
 - Fighting Style - Dueling: 1H melee +2 bonus to damage rolls
 
