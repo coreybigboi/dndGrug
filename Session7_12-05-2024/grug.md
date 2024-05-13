@@ -46,17 +46,15 @@ Hair: Long Black Hair
 
 
 ## Stats 
-- **Strength:** 18 (+4)
 
-- **Dexterity:** 16 (+3)
-
-- **Consitution:** 16 (+3)
-
-- **Intelligence:** 10 (+0)
-
-- **Wisdom:** 14 (+2)
-
-- **Charisma:** 12 (+1)
+| Attribute           | Value     | Modifier |   
+| :------------------ | :-------: | ------:  |
+| Strength            | 18        | (+4)     |
+| Dexterity           | 16        | (+3)     |
+| Consitution         | 16        | (+3)     |
+| Intelligence        | 10        | (+0)     |
+| Wisdom              | 14        | (+2)     |
+| Charisma            | 12        | (+1)     |
 
 **Proficiency Bonus:** +2
 
