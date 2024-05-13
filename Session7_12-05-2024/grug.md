@@ -7,7 +7,7 @@
 ## Character Details 
 
 |                   |                 |
-| :---------------- | --------------: |
+| ----------------- | --------------- |
 | **Class / Level** | Fighter Lvl 3   |
 | **Race**          | 3/4 Orc         |
 | **Background**    | Folk Hero       |
@@ -70,41 +70,27 @@
 
 
 ## Skills
-[ ] +3 Acrobatics (Dex)
 
-[x] +4 Animal Handling (Wis)
-
-[ ] +0 Arcana (Int)
-
-[x] +6 Athletics (Str)
-
-[ ] +1 Deception (Cha)
-
-[ ] +0 History (Int)
-
-[ ] +2 Insight (Wis)
-
-[x] +3 Intimidation (Cha)
-
-[ ] +0 Investigation (Int)
-
-[ ] +2 Medicine (Wis)
-
-[ ] +0 Nature (Int)
-
-[x] +4 Perception (Wis)
-
-[ ] +1 Performance (Cha)
-
-[ ] +1 Persuasion (Cha)
-
-[ ] +0 Religion (Int)
-
-[ ] +3 Sleight of Hand (Dex)
-
-[ ] +3 Stealth (Dex)
-
-[x] +4 Survival (Wis)
+| Proficiency | Modifier | Skill            | Attribute |
+| ----------- | -------- | ---------------- | --------- |
+|             | +3       | Acrobatics       | Dex       |
+| x           | +4       | Animal Handling  | Wis       |
+|             | +0       | Arcana           | Int       |
+| x           | +6       | Athletics        | Str       |
+|             | +1       | Deception        | Cha       |
+|             | +0       | History          | Int       |
+|             | +2       | Insight          | Wis       |
+| x           | +3       | Intimidation     | Cha       |
+|             | +0       | Investigation    | Int       |
+|             | +2       | Medicine         | Wis       |     
+|             | +0       | Nature           |Int        |
+| x           | +4       | Perception       | Wis       |
+|             | +1       | Performance      | Cha       |
+|             | +1       | Persuasion       | Cha       |
+|             | +0       | Religion         | Int       |
+|             | +3       | Sleight of Hand  | Dex       |
+|             | +3       | Stealth          | Dex       |
+| x           | +4       | Survival         | Wis       |
 
 
 ## Combat
