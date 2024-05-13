@@ -112,16 +112,18 @@
 
 
 ### Actions
-- Name: Longsword, Attack Bonus: + 6, Damage: 1d8 +6 Slashing 
+| Weapon       | Attack Bonus | Damage / Type       |
+| ------------ | ------------ | --------------------|
+| Longsword    | +6           | 1d8 +6 Slashing     |
 
 
 ## Battlemaster Superiority Dice
 4 d8 superiority die (regenerate per short / long rest)
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ]
+- [ ] d8
+- [ ] d8
+- [ ] d8
+- [ ] d8
 
 ### Maneuvers 
 
@@ -137,7 +139,6 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 
 ## Features / Traits
-- [ ] Second Wind: Once per short rest, use bonus action to regain 1d10 + 1 HP
 
 - [ ] Relentless Endurance: When reduced to 0HP but not killed, drop to 1HP instead. Can only be used once per long rest.
 
