@@ -94,19 +94,15 @@
 
 
 ## Combat
-### Overview
-- Armour Class: 18
+| Armour Class | Initiative | Speed |
+| ------------ | ---------- | ----- |
+| 18           | +3         | 30ft  |
 
-- Initiative: +3
 
-- Speed: 30ft
+| Hit Point Maximum | Current Hit Points | Temporary Hit Points |
+| ----------------- | ------------------ | -------------------- |
+| 34                | 34                 |                      |
 
-### Hit Points
-- Hit Point Maximum: 34
-
-- Current Hit Points: 34 
-
-- Temporary Hit Points: 
 
 ### Hit Dice
 d10
