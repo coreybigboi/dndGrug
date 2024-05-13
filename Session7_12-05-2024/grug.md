@@ -3,25 +3,19 @@
 > ![Grug Portrait](../grug_portrait.png)
 
 ## Character Details 
-**Class / Level:** Fighter Lvl 3
 
-**Race:** 3/4 Orc
-
-**Background:** Folk Hero
-
-**Alignment:** Chaotic Neutral
-
-**Age:** 27
-
-**Height:** 200cm
-
-**Weight:** 140kg
-
-**Eyes:** Yellow
-
-**Skin:** Pale Blue-Grey
-
-Hair: Long Black Hair
+|                   |                 |
+| :---------------- | --------------: |
+| **Class / Level** | Fighter Lvl 3   |
+| **Race**          | 3/4 Orc         |
+| **Background**    | Folk Hero       |
+| **Alignment**     | Chaotic Neutral |
+| **Age**           | 27              |       
+| **Height**        | 200cm           |
+| **Weight**        | 140kg           |
+| **Eyes**          | Yellow          |
+| **Skin**          | Pale Blue-Grey  |
+| **Hair**          | Long Black Hair |
 
 
 ### Personality Traits
@@ -48,7 +42,7 @@ Hair: Long Black Hair
 ## Stats 
 
 | Attribute           | Value     | Modifier |   
-| :------------------ | :-------: | ------:  |
+| :------------------ | :-------: | -------: |
 | Strength            | 18        | (+4)     |
 | Dexterity           | 16        | (+3)     |
 | Consitution         | 16        | (+3)     |
