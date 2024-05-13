@@ -6,18 +6,13 @@
 
 ## Character Details 
 
-|                   |                 |
-| ----------------- | --------------- |
-| **Class / Level** | Fighter Lvl 3   |
-| **Race**          | 3/4 Orc         |
-| **Background**    | Folk Hero       |
-| **Alignment**     | Chaotic Neutral |
-| **Age**           | 27              |       
-| **Height**        | 200cm           |
-| **Weight**        | 140kg           |
-| **Eyes**          | Yellow          |
-| **Skin**          | Pale Blue-Grey  |
-| **Hair**          | Long Black Hair |
+| Class / Level | Race    | Background | Alignment       | Player Name |
+| ------------- | ------- | ---------- | --------------- | ----------- |
+| Fighter Lvl 3 | 3/4 Orc | Folk Hero  | Chaotic Neutral | Corey       |
+
+| Age | Height | Weight | Eyes   | Skin           | Hair            |
+| --- | ------ | ------ | ------ | -------------- | --------------- |
+| 27  | 200cm  | 140kg  | Yellow | Pale Blue-Grey | Long Black Hair |
 
 
 ### Personality Traits
