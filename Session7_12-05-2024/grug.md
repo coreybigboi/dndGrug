@@ -43,12 +43,12 @@
 
 | Attribute           | Value     | Modifier |   
 | :------------------ | :-------: | -------: |
-| Strength            | 18        | (+4)     |
-| Dexterity           | 16        | (+3)     |
-| Consitution         | 16        | (+3)     |
-| Intelligence        | 10        | (+0)     |
-| Wisdom              | 14        | (+2)     |
-| Charisma            | 12        | (+1)     |
+| Strength            | 18        | +4      |
+| Dexterity           | 16        | +3      |
+| Consitution         | 16        | +3      |
+| Intelligence        | 10        | +0      |
+| Wisdom              | 14        | +2      |
+| Charisma            | 12        | +1      |
 
 **Proficiency Bonus:** +2
 
@@ -56,17 +56,15 @@
 
 
 ## Saving Throws
-[x] +6 Strength
 
-[ ] +3 Dexterity
-
-[x] +5 Constitution
-
-[ ] +0 Intelligence
-
-[ ] +2 Wisdom
-
-[ ] +1 Charisma
+| Proficiency | Modifier | Attribute        |
+| ----------- | -------- | ---------------- |
+| x           | +6       | Strength         |
+|             | +3       | Dexterity        |
+| x           | +5       | Constitution     |
+|             | +0       | Intelligence     |
+|             | +2       | Wisdom           |
+|             | +1       | Charisma         |
 
 
 ## Skills
