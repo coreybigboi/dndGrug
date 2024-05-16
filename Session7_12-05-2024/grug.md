@@ -1,10 +1,10 @@
-# Dungeons & Dragons 🗡️🐉
+# Dungeons & Dragons 🐉
 
 # Grug
 
 > ![Grug Portrait](../grug_portrait.png)
 
-## Character Details 
+## ⇁ Character Details 📜
 
 | Class / Level | Race    | Background | Alignment       | Player Name | Experience Points |
 | ------------- | ------- | ---------- | --------------- | ----------- | ----------------- |
@@ -41,7 +41,7 @@
 
 ---
 
-## Stats 
+## ⇁ Stats 📝
 
 | Attribute           | Value     | Modifier |   
 | :------------------ | :-------: | -------: |
@@ -58,7 +58,7 @@
 
 ---
 
-## Saving Throws
+## ⇁ Saving Throws 🎲
 
 | Proficiency | Modifier | Attribute        |
 | ----------- | -------- | ---------------- |
@@ -71,7 +71,7 @@
 
 ---
 
-## Skills
+## ⇁ Skills 🏃🏻‍♀️
 
 | Proficiency | Modifier | Skill            | Attribute |
 | ----------- | -------- | ---------------- | --------- |
@@ -96,7 +96,7 @@
 
 ---
 
-## Combat
+## ⇁ Combat 🗡
 
 | Armour Class | Initiative | Speed | Hit Dice |
 | ------------ | ---------- | ----- | -------- |
@@ -147,7 +147,7 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 ---
 
-## Features / Traits
+## ⇁ Features / Traits 🎭
 
 - [ ] Relentless Endurance: When reduced to 0HP but not killed, drop to 1HP instead. Can only be used once per long rest.
 
@@ -165,7 +165,7 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 ---
 
-## Other Proficiencies / Languages
+## ⇁ Other Proficiencies / Languages 💬
 
 - **Languages:** Common, Orc
 
@@ -179,7 +179,7 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 ---
 
-## Equipment
+## ⇁ Equipment 🛡
 
 | Coin     | Amount |
 | -------  | ------ |
@@ -223,7 +223,7 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 ---
 
-## Character Backstory
+## ⇁ Character Backstory 📃
 
 Grug grew up in the northern icy tundras in a village called Grug. His mother was an orc and his father a half-orc. All males in this village are called "Grug" and the females "Grugetta". Their culture centres around battle, and it is considered a great dishonor to grow old, as it suggests you did not fight worthy foes. Both men and women are expected to fight, and all Grug villagers are proficient blacksmiths. It is customary to go on a death pilgrimage during your physical peak, with the goal being to die with glory. Grug has left his wife Grugetta in the village to go on his own death pilgrimage, where they both hope he finds an honorable death. 
 
