@@ -175,7 +175,7 @@ When you make a weapon attack roll against a creature, you can expend one superi
 
 - **Weapons:** Martial, Simple
 
-- **Tools:** Blacksmith tools, vehicles (land)
+- **Tools:** Blacksmith tools, vehicles (land), Chef's tools
 
 ---
 
